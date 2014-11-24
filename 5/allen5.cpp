@@ -11,7 +11,7 @@ int main(){
 	{
 		answer *= i/gcf(answer,i);
 	}
-	std::cout << answer << std::endl;
+	cout << answer << endl;
 	return 0;
 }
 
