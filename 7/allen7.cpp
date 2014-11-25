@@ -1,6 +1,5 @@
 #include <iostream>
-#include<vector>
-#include <cmath>
+#include <vector>
 
 using std::cout;
 using std::endl;
